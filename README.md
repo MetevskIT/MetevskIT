@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Abdullah.
-#### I study for C # Web Developer.
+#### I study for Web Developer.
 ![I study for C # Web Developer.](https://www.linkpicture.com/q/929501234_1.png)
 
-I'm Abdullah from Bulgaria. I'm interested in programming. Now i learn C# at SoftUni.
+I'm Abdullah from Bulgaria. I'm interested in programming. Now i learn at SoftUni.
 
-Skills: C# / OOP / Computer Hardware
+Skills: C# / OOP / JS / Computer Hardware
 
-- 🌱 I’m currently learning C# in SoftUni. 
+- 🌱 I’m currently learning C# and JS in SoftUni. 
 - 📫 How to reach me: abimet03@gmail.com 
 
 
