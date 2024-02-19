@@ -23,7 +23,7 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 
 
 ## About  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning TypeScript and Redux.  
   
@@ -33,15 +33,6 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 
 - 📫 How to reach me metevskit@gmail.com  
   
-
-  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -87,5 +78,3 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
