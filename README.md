@@ -62,14 +62,4 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
