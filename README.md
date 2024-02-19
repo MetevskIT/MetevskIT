@@ -51,9 +51,6 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
 
 
