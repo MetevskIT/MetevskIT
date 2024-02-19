@@ -34,8 +34,6 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 - 📫 How to reach me metevskit@gmail.com  
   
 
-<br/>  
-
 
 ## Languages and Tools  
 <br/>  
