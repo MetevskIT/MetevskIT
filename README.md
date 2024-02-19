@@ -57,11 +57,7 @@ I am delighted to continue learning and enhancing my skills, exploring new techn
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=metevskit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 30%" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metevskit&hide_border=true&layout=compact" align="left" style="width: 30%" />
+![metevskit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metevskit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <br/>  
